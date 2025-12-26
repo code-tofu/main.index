@@ -1,0 +1,11 @@
+- Git  
+- IntelliJ
+	- Debugger  
+- VSCode
+	- Debugger
+	- https://console-ninja.com/
+- Atlassian Suite  
+	- JIRA  
+	- Confluence  
+	- Bitbucket
+- Figma  
