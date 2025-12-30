@@ -18,14 +18,15 @@
 ## Spring Security  
 - LDAP for SpringSecurity  
 - Oauth2 for SpringSecurity  
-- SSO for SpringSecurity  
+- SSO for SpringSecurity
+- Form Login for SpringSecurity
 
 ## Spring Data JPA  
 - Pagination  
 
 ## Spring MVC 
 ## Spring Validation  
-## SpringDataRest
+## Spring Data Rest
 ## Spring Feign
 
 ## Spring Cloud OpenFeign  

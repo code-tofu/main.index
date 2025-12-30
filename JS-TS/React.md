@@ -7,6 +7,7 @@
 ## Forms
 - [x] Formik
 - [x] React Hook Forms
+- [ ] Yup Validation
 
 ## State Management
 - [x] RTK
