@@ -1,48 +1,49 @@
 # Java
 
-## JavaSE
-- Actuators + Advantages  
-- Lambda Expressions  
-- Method References  
-- Functional Interfaces  
-- Optional Class  
-- Streams  
-- Static and Final Methods in Interface  
-- Static vs Fi​nal  
-- Final, finally, Finalize  
-- Hibernate + Advantages  
-- Predicate  
-- Function  
-- Supplier  
-- Consumer  
-- Exception Handling  
-- Heap, Stack memory  
-- OOP  
-- Collections  
-- Parallel threads 
-- Cron and Shedlock
-- Virtual Threads
-- Completable futures
-- File Writing
-- using Java jvm profiling
+## Java Lang
+- [x] Lambda Expressions  
+- [x] Method References  
+- [x] Functional Interfaces  
+- [x] Optional Class  
+- [x] Streams  
+- [x] Static and Final Methods in Interface  
+- [x] Static vs Fi​nal  
+- [ ] Final, finally, finalize  
+- [ ] Hibernate + Advantages  
+- [x] Predicate  
+- [x] Function  
+- [x] Supplier  
+- [x] Consumer  
+- [x] Exception Handling  
+- [ ] OOP  
+- [x] Collections  
+- [x] Parallel threads 
+- [x] Completable futures
+- [x] File Writing
+- [ ] Heap, Stack Memory  
+- [ ] JVM profiling 
+- [ ] Virtual Threads
+
 
 ## Libraries
-- Camunda  
-- Flyway  
-- Swagger  
-- Jackson  
+- [x] Camunda  
+- [ ] Activiti
+- [x] Flyway  
+- [x] Swagger  
+- [x] Jackson  
 - Logger Frameworks  
-- SLF4J  
-- Logback  
-- Log4J2  
+  - [ ] SLF4J  
+  - [ ] Logback  
+  - [ ] Log4J2  
 - Jmeter  
-- Unit Testing  
-- Junit  
-- Mockito  
-- Resilience4J  
-- FF4J  
-- Apache Freemarker  
-- PDFBox   
+- [x] Unit Testing  
+- [x] Junit  
+- [x] Mockito  
+- [ ]Resilience4J  
+- [ ] FF4J  
+- [ ] Apache Freemarker  
+- [ ] PDFBox   
+- [ ] Thymeleaf
 
 https://www.jooq.org/
 https://guava.dev/
@@ -54,7 +55,6 @@ https://cucumber.io/
 https://pdfbox.apache.org/
 https://elide.io/
 
-
 ## Maven
 - servers
 - mirrors
@@ -64,4 +64,4 @@ https://elide.io/
 - relative
 - plugins
 https://mvnrepository.com/artifact/org.fastnate/fastnate-generator
-https://fastnate.org/
+

@@ -12,6 +12,9 @@
 - @Qualifier  
 - Spring Validation 
 - Request Logger Spring Boot (Check Journal)
+- Async
+- [ ] Cron and Shedlock
+
 
 ## Spring AOP/Annotations
 
@@ -30,6 +33,9 @@
 ## Spring Feign
 
 ## Spring Cloud OpenFeign  
+- Actuator
+
+
 ## Spring Data JDBC  
 ## Spring Data MongoDB  
 ## Spring Data Redis  
@@ -37,11 +43,10 @@
 
 ## Spring Batch  
 
-- Spring WebFlux  
+# Spring WebFlux  
 - Reactor Webflux  
+
 - Spring for Apache Kafka  
 - Spring AMQP  
-- Spring Actuator  
-
 
 ## (Reflection Utils)[https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/ReflectionUtils.html]
