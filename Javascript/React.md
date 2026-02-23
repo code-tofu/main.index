@@ -50,3 +50,5 @@
 # Others
 - Portals
 - SSR
+- [x] vite
+- [x] cra
