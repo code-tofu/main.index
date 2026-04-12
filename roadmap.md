@@ -6,10 +6,12 @@ https://roadmap.sh/spring-boot
 ## React
 - [ ] React-Context
 - [ ] custom hooks
-- [ ] Testing
-### State Management
+- [ ] Testing/Mocking
+- [ ] pop ups, modals, validation, timer, polling
+### useStateManagement
 - [ ] Redux
-- [ ] Thunk
+- [ ] Thunks
+- [ ] Sagas
 - [ ] RTK-Thunks
 - [ ] RTK-Query
 - [ ] Redux-Sagas
@@ -18,32 +20,48 @@ https://roadmap.sh/spring-boot
 - [ ] Mobx
 - [ ] Valtio
 - [ ] Jotai
+### useForms
+- [ ] React Controlled Components
+- [ ] Formik
+- [ ] RHF
+- [ ] Yup
+
 
 ## Spring
-- [ ] LDAP for SpringSecurity  
-- [ ] Oauth2 for SpringSecurity  
-- [ ] SSO for SpringSecurity
+- [ ] Oauth2/SSO/LDAP for SpringSecurity  
 - [ ] Spring Data Rest
+- [ ] Resilience4J
 
 ## Java
 - [ ] Parallel threads 
 - [ ] Completable futures
-- [ ] File 
+- [ ] File IO
+
+## useDatabase
+- useCassandra
+
+## useLoggin
+- Logback
+- Logmasking
+
+## useDocker/Kubernetes
+- setup cassandra
+- setup filebeat
+- setup kibana
+
 
 
 # DO
 - useStateManagement
-- useForms
-  - React Controlled Components
-  - Formik
-  - RHF
-  - Yup
 - useFeature FF4J, mocked by json-server
-
 - useMentalSums
 - useDutch
-
 - usePostman
+
+# Fenrir
+- featureFlag
+- Spring Feign UAA Config
+- Filebeat Configuraiton
 
 # READ
  - HeadFirstJava

@@ -1,8 +1,7 @@
 # PaaS and Related Tools
 - PCF 
 - Openshift
-- Jenkins CI  
-- Docker  
+- Jenkins CI    
 - Kubernetes  
 - OCP
 
