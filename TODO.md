@@ -1,3 +1,24 @@
+## Reading
+- Carl Rippon - Learn React with TypeScript
+- Mark Heckler - Spring Boot Up and Running 
+- Craig Walls - Spring in Action
+
+## Practice
+
+## Courses
+- Pluralsight
+- [The Ultimate React Course 2024: React, Redux & More - Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course) 
+  - [GitHub - jonasschmedtmann/ultimate-react-course: Starter files, final projects, and FAQ for my Ultimate React course](https://github.com/jonasschmedtmann/ultimate-react-course/tree/main)
+  - S18
+  - Move Images from Onenote To Obsidian
+- [Algorithms & Data Structures | Frontend Masters](https://frontendmasters.com/courses/algorithms/)
+
+## Admin
+- pack Zilant Onenote and Scans
+
+
+---
+
 # WIP
 ## PLURALSIGHT
 - [/] Using Hooks in React 18 By Peter Kellner  
