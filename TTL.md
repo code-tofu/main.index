@@ -1,2 +1,45 @@
-* Mocking in Jest
-* Public/Private Keys, RSA
+# ThingsToLearn
+- [ ] Mocking in Jest
+- [ ] Public/Private Keys, RSA
+- [ ] Writing and Running Stored Procedures  
+- [ ] Conditionals in Queries  
+- [ ] Implementing HashCode and Equals 
+- [ ] Using Java Pairs
+- [ ] Using Cron
+- [ ] Using Shedlock
+- [ ] Using H2 for quick setup or testing
+
+
+# ThingsToLookUp
+- [ ] Redux Dispatch
+- [ ] Import Alias
+- [ ] Java stream ::
+- [ ] Pick<>
+- [ ] Partial<>
+- [ ] React.memo
+- [ ] RouteComponentProps
+- [ ] React.propsWithChildren
+- [ ] React.reactNode
+- [ ] ReturnType`<typeof submission>`
+- [ ] Sagas - [ ] applyMiddleware
+- [ ] Redux or Flux ngRx vs ngxs
+- [ ] Change detection
+- [ ] Optional chaining syntax
+- [ ] Sneakythrows
+- [ ] Nested - [ ] junit annotations
+- [ ] Load testing
+- [ ] Setup JPA
+- [ ] Setup Log4J
+- [ ] Stage/unstage changes IntelliJ
+- [ ] Jackson Object mappers 
+- [ ] Ping a URI
+- [ ] Run SQL script/stored procedures?
+- [ ] Join tables in JPA
+- [ ] Set the hash key for bcrypt?
+- [ ] Jdbctemplate.execute
+- [ ] SSL pinning
+- [ ] Flushing a connection
+- [ ]  DDL - [ ] Data Definition Language
+- [ ] TRUNCATE command
+- [ ] SSTABLE - [ ] sorted strings table
+- [ ] Cdata XML Pdfbox

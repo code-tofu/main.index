@@ -1,0 +1,14 @@
+ - [x] Are primary keys always indexed?
+ - [ ] Are primary keys necessary in look up tables
+ - [ ] Can you use the foreign key as primary key in a one-to-one table?
+ - [ ] Must you have a primary key in a one to many table? Must you introduce a primary key or use composite key
+ - [ ] Should there be Validation on the entity side based on the length of char defined in table
+ - [ ] What is the difference between mock and stub and mockbean?
+ - [ ] What is the benefits of using enum vs strings, and using enum in a switch or DB?
+ - [ ] What is polyfilling?
+ - [ ] What are the differences between Prepared Statement vs Statement. How and when do we use prepared statements
+ - [ ] What are sub Queries? Is it not as efficient as using joins?
+ - [ ] What is the benefit of SQL View. It is more storage efficient?
+ - [ ] What is prototyping a class (java)
+ - [ ] How does React Context API manage renders during change of states
+ - [ ] Can multiple tables have the same foreign key?
