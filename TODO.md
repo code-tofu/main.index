@@ -49,3 +49,35 @@ Lecture 5
 
 
 
+---
+
+- Scan in Pluralsight 
+- Move OneNote Code to obsidian 
+- Review angular tutorials 
+- Clear Datacamp Screenshot
+- Extract useful resources from Jonas
+- Pack one note scans/ screenshots
+- Upload office lens 
+- Download udemy python source code 
+- Pick one drive SRC and videos 
+- Download cs50p notes 
+- Backup python cs50 GitHub
+- Add cs50 questions to GitHub 
+- Sign up cs50 coursera CDX and sync 
+- Clear obsidian code and links
+- Set up environment 
+- Set up tofucode
+- trackback CV
+- rewatch pluralsight
+- rewatch udemy
+- setup dev environment
+- setup cassandra
+- setup filebeat
+- scan pluralsight + home PT
+- clean onedrive zilant onescans
+- download ebooks to read
+- send xy obsidian
+- Zilant
+- bcon-journal
+- review feature flag
+- Clear study notes
